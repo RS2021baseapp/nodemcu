@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "First project",
-			"path": "First project"
-		},
-		{
 			"name": "second project",
 			"path": "second project"
+		},
+		{
+			"name": "i2c",
+			"path": "i2c"
 		}
 	]
 }
