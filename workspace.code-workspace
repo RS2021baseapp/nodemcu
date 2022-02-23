@@ -3,10 +3,6 @@
 		{
 			"name": "second project",
 			"path": "second project"
-		},
-		{
-			"name": "i2c",
-			"path": "i2c"
 		}
 	]
 }
